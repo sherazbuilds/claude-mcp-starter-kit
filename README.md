@@ -57,7 +57,7 @@ This starter kit gives you a fully configured Claude Desktop + Claude Code envir
 ### Windows
 
 ```powershell
-git clone https://github.com/syedsherazali021/claude-mcp-starter-kit
+git clone https://github.com/sherazbuilds/claude-mcp-starter-kit
 cd claude-mcp-starter-kit
 ./setup.ps1
 ```
@@ -65,7 +65,7 @@ cd claude-mcp-starter-kit
 ### macOS / Linux
 
 ```bash
-git clone https://github.com/syedsherazali021/claude-mcp-starter-kit
+git clone https://github.com/sherazbuilds/claude-mcp-starter-kit
 cd claude-mcp-starter-kit
 chmod +x setup.sh
 ./setup.sh

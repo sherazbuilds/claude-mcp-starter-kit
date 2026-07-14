@@ -74,7 +74,7 @@ claude --version
 ## 3. Clone This Repo
 
 ```bash
-git clone https://github.com/syedsherazali021/claude-mcp-starter-kit
+git clone https://github.com/sherazbuilds/claude-mcp-starter-kit
 cd claude-mcp-starter-kit
 ```
 

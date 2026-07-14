@@ -144,7 +144,7 @@ If missing, reinstall: `npm install -g <package-name>`
 
 ## Getting Help
 
-Open an [issue](https://github.com/syedsherazali021/claude-mcp-starter-kit/issues) with:
+Open an [issue](https://github.com/sherazbuilds/claude-mcp-starter-kit/issues) with:
 - Your OS and version
 - The MCP or command that's failing
 - The exact error message
